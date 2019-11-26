@@ -1,0 +1,867 @@
+fileFormatVersion: 2
+guid: cd920d1c918f17446a41c54166b6bbb8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5314110913457476230
+    second: Molecules_0
+  - first:
+      213: -8777034648511030235
+    second: Molecules_1
+  - first:
+      213: -3365663289981840337
+    second: Molecules_2
+  - first:
+      213: -4396026097190142530
+    second: Molecules_3
+  - first:
+      213: -6798727166347609787
+    second: Molecules_4
+  - first:
+      213: -3829695552399379887
+    second: Molecules_5
+  - first:
+      213: 1474059976691293822
+    second: Molecules_6
+  - first:
+      213: 2599784244891006674
+    second: Molecules_7
+  - first:
+      213: -6644309467822638425
+    second: Molecules_8
+  - first:
+      213: 2103481696375461263
+    second: Molecules_9
+  - first:
+      213: 4497510735215383622
+    second: Molecules_10
+  - first:
+      213: -469421679566136223
+    second: Molecules_11
+  - first:
+      213: -6748438121050742163
+    second: Molecules_12
+  - first:
+      213: -4285502398912520624
+    second: Molecules_13
+  - first:
+      213: -450245323030442739
+    second: Molecules_14
+  - first:
+      213: 1879904168103818004
+    second: Molecules_15
+  - first:
+      213: -3639192364131864132
+    second: Molecules_16
+  - first:
+      213: 9116277792487488165
+    second: Molecules_17
+  - first:
+      213: -328642138248472259
+    second: Molecules_18
+  - first:
+      213: -4059993971074580781
+    second: Molecules_19
+  - first:
+      213: 2228859458631239974
+    second: Molecules_20
+  - first:
+      213: -7348151545702805949
+    second: Molecules_21
+  - first:
+      213: 6450463186596071942
+    second: Molecules_22
+  - first:
+      213: -2461016013245128287
+    second: Molecules_23
+  - first:
+      213: 4456601906641893489
+    second: Molecules_24
+  - first:
+      213: 2145955130390772182
+    second: Molecules_25
+  - first:
+      213: -8934674195439679175
+    second: Molecules_26
+  - first:
+      213: -3920336780622917104
+    second: Molecules_27
+  - first:
+      213: -1791999729718418720
+    second: Molecules_28
+  - first:
+      213: -7283440979124087797
+    second: Molecules_29
+  - first:
+      213: 2619865920730417110
+    second: Molecules_30
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Molecules_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 197
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b4a3d97a5c0c14f9fa8c3bba8d20b7
+      internalID: 5314110913457476230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molecules_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 207
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb248c5f73709d4db6117fe03a85f06
+      internalID: -8777034648511030235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molecules_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 201
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f5ceaeac888154e884588db7dee35b
+      internalID: -3365663289981840337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molecules_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 198
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c05174851d92d449762850d93502f0
+      internalID: -4396026097190142530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molecules_4
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 212
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503caa38fea44c940bcbfc8611a6f211
+      internalID: -6798727166347609787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molecules_5
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 199
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6369487906c5cee479e02c99d370f824
+      internalID: -3829695552399379887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molecules_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 176
+        width: 21
+        height: 16
+      alignment: 9
+      pivot: {x: 0.38, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6279518308ec3d44aa19fd5ca037e75
+      internalID: 1474059976691293822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molecules_7
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 176
+        width: 21
+        height: 16
+      alignment: 9
+      pivot: {x: 0.38, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9048984f1a892e4a9d3f30232f74343
+      internalID: 2599784244891006674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molecules_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 176
+        width: 21
+        height: 16
+      alignment: 9
+      pivot: {x: 0.38, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056e3281cd4df314aba9f775e74acfd6
+      internalID: -6644309467822638425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molecules_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 176
+        width: 21
+        height: 16
+      alignment: 9
+      pivot: {x: 0.38, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a9e41ac7ad74e43bd2cf8deb52faca
+      internalID: 2103481696375461263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molecules_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 18
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90d1428ed44c1441af581830ee882fe
+      internalID: 4497510735215383622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molecules_11
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 166
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f924c48581387484faf25e72f46db354
+      internalID: -469421679566136223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molecules_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 131
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3625ddb6411d7fb4c80e415faac8d9c2
+      internalID: -6748438121050742163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molecules_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 152
+        width: 49
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c19a086b465ff044bad18fe0389d2f9
+      internalID: -4285502398912520624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molecules_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 134
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdc47332f8e18e409963c7c06423fc0
+      internalID: -450245323030442739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molecules_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 134
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdd30ffc4f24d54d9b6829694ffefc9
+      internalID: 1879904168103818004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molecules_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 134
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca27c4510fde2c84ea91a214fa1345d2
+      internalID: -3639192364131864132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molecules_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 134
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8987bd0e9fdcd3144b3c3735ab6aad74
+      internalID: 9116277792487488165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molecules_18
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 134
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b861cbf0ceb1d43bdf8c83e0e382f7
+      internalID: -328642138248472259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molecules_19
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 134
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccda113c7ad340c4a99b43fb6d3a5d9a
+      internalID: -4059993971074580781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molecules_20
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 134
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55a11527e768c14c9edd3c7bbcadd64
+      internalID: 2228859458631239974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molecules_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 134
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26cfd02dc2e761409e8dd56fd6dbee6
+      internalID: -7348151545702805949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molecules_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 134
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1007aafb3721b5c46b509367ee32b279
+      internalID: 6450463186596071942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molecules_23
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 136
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf2419d0a43c31499ea742dadf33667
+      internalID: -2461016013245128287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molecules_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 112
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65cbd642493783478ca5844d6328bfd
+      internalID: 4456601906641893489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molecules_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 112
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8a08fa28dc328498bfbd684b0cba10
+      internalID: 2145955130390772182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molecules_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 112
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307d3550d30d486489ba8bbf276e44b9
+      internalID: -8934674195439679175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molecules_27
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 70
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db09f8847d6b43458964e65595db14f
+      internalID: -3920336780622917104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molecules_28
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 68
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afb1d63b281680448ae42b283dd9ed4
+      internalID: -1791999729718418720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molecules_29
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 85
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed0727848b05bb498b1b2fa4fb4fffb
+      internalID: -7283440979124087797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molecules_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 38
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6712b8c5d19cd47904da5b32520096
+      internalID: 2619865920730417110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d8a0066363d20c944ad88e5192974bfc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
